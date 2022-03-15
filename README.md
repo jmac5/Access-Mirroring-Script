@@ -22,4 +22,7 @@ Other than that, have fun! **Always kick the tires on a test server or DB first!
 my org's needs in mind, and yours may be different. I tried to comment on a lot of the functions, but some may 
 still be confusing. I recommend debugging and stepping through while watching variables to figure out what 
 may be going on, if you're lost. 
+  
+In the process of sanitizing this for public consumption, some things have been ripped out and replaced with generic placeholders. I highly suggest checking all the lines (there really aren't that many) for any leftover empty references before running.
+  
 Jim
